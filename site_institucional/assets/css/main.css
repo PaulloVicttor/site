@@ -2428,7 +2428,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			width: 20%;
 		}
 
 			.image.main img {
@@ -4141,5 +4141,13 @@ input, select, textarea {
 	width: 100%;
 }
 
+#descricao_servicos{
+	font-size: 20px;
+}
 
-
+.imagens_integrantes{
+/* 	
+height: 360px; */
+/* width: 350px; */
+	
+}
